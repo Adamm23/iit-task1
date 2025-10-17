@@ -72,20 +72,20 @@ A good rule of thumb:
 
 ---
 
-5) What should you (a first‑year IT student) do?
+## 5) What should you (a first‑year IT student) do?
 
-- Master the basics of data + automation: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
-- Practice “prompt → verify → ship”: use AI to draft, but always check sources, test outputs, and document assumptions.  
-- Build a visible portfolio: small public repos showing before/after with and without AI (README demos, notebooks).  
-- Invest in durable skills: systems thinking, communication, security mindset, and domain context.  
-- Work in pairs/teams: peer review catches model errors and improves your prompts and specs.  
+- **Master the basics of data + automation:** get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
+- **Practice “prompt → verify → ship”:** use AI to draft, but always check sources, test outputs, and document assumptions.  
+- **Build a visible portfolio:** small public repos showing before/after with and without AI (README demos, notebooks).  
+- **Invest in durable skills:** systems thinking, communication, security mindset, and domain context.  
+- **Work in pairs/teams:** peer review catches model errors and improves your prompts and specs.  
 
 A simple checklist for any AI‑assisted task:
 
 - [ ] Define the task and acceptance criteria.  
-- [ ] Draft with AI and log prompts.  
-- [ ] Verify: test, cite sources, run sanity checks.  
-- [ ] Document what the tool did vs. what you did.  
+- [ ] Draft with AI and **log prompts**.  
+- [ ] **Verify:** test, cite sources, run sanity checks.  
+- [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
 ---
